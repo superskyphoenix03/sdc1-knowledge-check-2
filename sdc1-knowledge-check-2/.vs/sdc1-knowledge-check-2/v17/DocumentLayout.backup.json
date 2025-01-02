@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|c:\\users\\super\\onedrive\\documents\\projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|c:\\users\\super\\onedrive\\documents\\projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|solutionrelative:catfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|c:\\users\\super\\onedrive\\documents\\projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|c:\\users\\super\\onedrive\\documents\\projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D937B600-43A0-43E6-BCE7-979C6BD426BD}|sdc1-knowledge-check-2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-02T18:48:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatFood.cs",
+              "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\CatFood.cs",
+              "RelativeDocumentMoniker": "CatFood.cs",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\CatFood.cs",
+              "RelativeToolTip": "CatFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:40:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:38:41.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documents\\Projects\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:04:19.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
